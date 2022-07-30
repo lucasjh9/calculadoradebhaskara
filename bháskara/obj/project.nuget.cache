@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/jogLZyDVEIxDOlE5ENfqz8iL19Awhop94SVTgs0vywFot71FJI1Rfn8N2pfgZrE7Isuk+f0d4hgslMyLpLrGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\f4rb3\\source\\repos\\bháskara\\bháskara\\bháskara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\f4rb3\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}

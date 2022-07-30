@@ -1,0 +1,14 @@
+C:\Users\f4rb3\source\repos\bháskara\bháskara\bin\Debug\netcoreapp3.1\bháskara.exe
+C:\Users\f4rb3\source\repos\bháskara\bháskara\bin\Debug\netcoreapp3.1\bháskara.deps.json
+C:\Users\f4rb3\source\repos\bháskara\bháskara\bin\Debug\netcoreapp3.1\bháskara.runtimeconfig.json
+C:\Users\f4rb3\source\repos\bháskara\bháskara\bin\Debug\netcoreapp3.1\bháskara.runtimeconfig.dev.json
+C:\Users\f4rb3\source\repos\bháskara\bháskara\bin\Debug\netcoreapp3.1\bháskara.dll
+C:\Users\f4rb3\source\repos\bháskara\bháskara\bin\Debug\netcoreapp3.1\bháskara.pdb
+C:\Users\f4rb3\source\repos\bháskara\bháskara\obj\Debug\netcoreapp3.1\bháskara.csproj.AssemblyReference.cache
+C:\Users\f4rb3\source\repos\bháskara\bháskara\obj\Debug\netcoreapp3.1\bháskara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\f4rb3\source\repos\bháskara\bháskara\obj\Debug\netcoreapp3.1\bháskara.AssemblyInfoInputs.cache
+C:\Users\f4rb3\source\repos\bháskara\bháskara\obj\Debug\netcoreapp3.1\bháskara.AssemblyInfo.cs
+C:\Users\f4rb3\source\repos\bháskara\bháskara\obj\Debug\netcoreapp3.1\bháskara.csproj.CoreCompileInputs.cache
+C:\Users\f4rb3\source\repos\bháskara\bháskara\obj\Debug\netcoreapp3.1\bháskara.dll
+C:\Users\f4rb3\source\repos\bháskara\bháskara\obj\Debug\netcoreapp3.1\bháskara.pdb
+C:\Users\f4rb3\source\repos\bháskara\bháskara\obj\Debug\netcoreapp3.1\bháskara.genruntimeconfig.cache
